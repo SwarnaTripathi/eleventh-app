@@ -1,6 +1,38 @@
+# Dependencies
 node_modules/
+.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+build/
 dist/
-.env
-*.log
+out/
+
+# Misc
 .DS_Store
 Thumbs.db
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Temporary and Workspace files
+extracted_guidelines.txt
+guidelines_complete.txt
+guidelines_full.txt
+guidelines_utf8.txt
+guidelines_*.txt
+parsed_content.txt
+*.zip
+*.docx
+extract_docx.ps1
+project_description.md
