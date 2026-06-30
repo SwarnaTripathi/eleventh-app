@@ -1,0 +1,17 @@
+{
+  "name": "eleventh-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\" --names \"server,client\" --prefix-colors \"cyan,magenta\"",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "start": "node server/index.js",
+    "install:all": "cd server && npm install && cd ../client && npm install",
+    "postinstall": "npm run install:all"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}

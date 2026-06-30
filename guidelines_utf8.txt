@@ -1,0 +1,18 @@
+﻿__Build Phase Guidelines__
+
+- Participants are required to __choose one of two problem statements__ and __build a functional solution__ within the challenge timeline *\(22nd June 3pm \- 29th June 2pm\)*\.  
+
+- __Submission Deadline: __29th June 2026 , 2:00 PM \. *Late entries will not be accepted\.  
+*
+- The __final deployable link__ __should be mandatorily deployed on Google Cloud__ \. You can use tools like AI Studio , Antigravity etc\.  
+
+- A __Mentor Session__ will be held on __24th June 2026 \(4:00 PM ΓÇô 6:00 PM\)__, covering problem statement walkthroughs, recommended solution approaches, and guidance on effectively using Google AI Studio for solution development and deployment\.  
+  
+Registered participants will receive an email with the registration and joining details for the session\.  
+
+- Participants __must follow the submission requirements__ outlined in the tabs below to be eligible for evaluation\. Platform submission steps are also provided\.   
+  
+Please note that __submissions__ __will be__ __accepted only through the BlockseBlock platform__ on which you registered for the hackathon\.  
+
+- The use of AI tools, open\-source libraries, and publicly available resources is permitted and encouraged\. However, participants must __ensure that their__ __submission reflects their own work, understanding, and implementation__\.
+
